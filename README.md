@@ -1,4 +1,4 @@
-# thesis-template
+# template-thesis
 
 Minimal but nicely styled thesis template.
 
